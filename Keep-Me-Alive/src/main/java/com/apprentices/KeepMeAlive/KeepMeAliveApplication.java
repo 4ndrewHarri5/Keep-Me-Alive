@@ -1,9 +1,9 @@
 package com.apprentices.KeepMeAlive;
 
-import com.apprentices.KeepMeAlive.Entity.Plant;
-import com.apprentices.KeepMeAlive.Entity.User;
-import com.apprentices.KeepMeAlive.Repository.PlantRepository;
-import com.apprentices.KeepMeAlive.Repository.UserRepository;
+import com.apprentices.KeepMeAlive.entity.Plant;
+import com.apprentices.KeepMeAlive.entity.User;
+import com.apprentices.KeepMeAlive.repository.PlantRepository;
+import com.apprentices.KeepMeAlive.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
