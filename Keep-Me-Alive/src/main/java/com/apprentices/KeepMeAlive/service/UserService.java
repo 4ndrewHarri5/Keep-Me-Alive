@@ -1,6 +1,6 @@
-package com.apprentices.KeepMeAlive.Service;
+package com.apprentices.KeepMeAlive.service;
 
-import com.apprentices.KeepMeAlive.Repository.UserRepository;
+import com.apprentices.KeepMeAlive.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

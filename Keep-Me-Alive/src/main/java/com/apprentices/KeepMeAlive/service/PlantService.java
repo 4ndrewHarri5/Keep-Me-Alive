@@ -1,4 +1,4 @@
-package com.apprentices.KeepMeAlive.Service;
+package com.apprentices.KeepMeAlive.service;
 
 import org.springframework.stereotype.Service;
 
